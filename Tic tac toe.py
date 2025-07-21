@@ -47,3 +47,6 @@ for i in range(3):
 label=Label(text=a+"'s Chance",font=('arial',20,'bold'))
 label.grid(row=3,column=0,columnspan=3)
 root.mainloop()
+
+
+//this is my code
